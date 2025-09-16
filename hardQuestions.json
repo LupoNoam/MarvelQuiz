@@ -1,0 +1,199 @@
+{
+  "hardQuestions": [
+    {
+      "question": "Which series features J.A.R.V.I.S reappearing as Vision?",
+      "correct_answer": 2,
+      "answers": ["Agents of S.H.I.E.L.D","Loki","WandaVision","The Falcon and the Winter Soldier"]
+    },
+    {
+      "question": "Who was the first character to get their own live-action series in the MCU?",
+      "correct_answer": 2,
+      "answers": ["Loki","Hawkeye","Wanda Maximoff","Moon Knight"]
+    },
+    {
+      "question": "Who among these is one of Thanos' 'children'?",
+      "correct_answer": 1,
+      "answers": ["War Machine","Ebony Maw","Nebula","Ronan the Accuser"]
+    },
+    {
+      "question": "Who inherited the role of Hawkeye in the 'Hawkeye' series?",
+      "correct_answer": 1,
+      "answers": ["Yelena Belova","Kate Bishop","Shang-Chi","Natasha Romanoff"]
+    },
+    {
+      "question": "Who co-founded S.H.I.E.L.D?",
+      "correct_answer": 2,
+      "answers": ["Tony Stark","Nick Fury","Howard Stark","Reed Richards"]
+    },
+    {
+      "question": "Which character disappeared first in Thanos' snap?",
+      "correct_answer": 2,
+      "answers": ["Black Panther","Spider-Man","Bucky Barnes","Doctor Strange"]
+    },
+    {
+      "question": "What is Earth called in Asgardian language?",
+      "correct_answer": 2,
+      "answers": ["Ard","Garde","Midgard","Artheim"]
+    },
+    {
+      "question": "What is Pepper Potts' real name?",
+      "correct_answer": 1,
+      "answers": ["Victoria","Virginia","Penelope","Paula"]
+    },
+    {
+      "question": "In which country was Tony Stark kidnapped in the first Iron Man movie?",
+      "correct_answer": 1,
+      "answers": ["Iran","Afghanistan","Pakistan","Iraq"]
+    },
+    {
+      "question": "What does J.A.R.V.I.S stand for?",
+      "correct_answer": 2,
+      "answers": ["Just A Really Valid Intelligent System","Java Automated Response Visual Interface Server","Just A Rather Very Intelligent System","Joint Artificial Robotic Voice Information System"]
+    },
+    {
+      "question": "Who is the first Black Widow?",
+      "correct_answer": 1,
+      "answers": ["Natasha Romanoff","Yelena Belova","Melina Vostokoff","Wanda Maximoff"]
+    },
+    {
+      "question": "Who wields the Stormbreaker axe?",
+      "correct_answer": 0,
+      "answers": ["Thor","Hela","Loki","Odin"]
+    },
+    {
+      "question": "Which movie features the first Infinity War battle?",
+      "correct_answer": 1,
+      "answers": ["Avengers: Age of Ultron","Avengers: Infinity War","Guardians of the Galaxy","Captain America: Civil War"]
+    },
+    {
+      "question": "Who is the Collector?",
+      "correct_answer": 3,
+      "answers": ["Ego","Thanos","Odin","Taneleer Tivan"]
+    },
+    {
+      "question": "Which character is the Grandmaster?",
+      "correct_answer": 1,
+      "answers": ["Loki","Jeff Goldblum","Korg","Ego"]
+    },
+    {
+      "question": "Who was the first to wield Mjolnir in the MCU?",
+      "correct_answer": 2,
+      "answers": ["Loki","Hela","Thor","Odin"]
+    },
+    {
+      "question": "Who is the ruler of Sakaar?",
+      "correct_answer": 0,
+      "answers": ["Grandmaster","Korg","Hela","Loki"]
+    },
+    {
+      "question": "Who is the original Vision creator?",
+      "correct_answer": 1,
+      "answers": ["Tony Stark","Ultron","Bruce Banner","Nick Fury"]
+    },
+    {
+      "question": "Which Avenger uses the Quantum Realm to travel in time?",
+      "correct_answer": 2,
+      "answers": ["Doctor Strange","Iron Man","Ant-Man","Hulk"]
+    },
+    {
+      "question": "What is the true identity of Moon Knight?",
+      "correct_answer": 0,
+      "answers": ["Marc Spector","Jake Lockley","Steven Grant","Khonshu"]
+    },
+    {
+      "question": "Who is the leader of the Wakandan forces?",
+      "correct_answer": 1,
+      "answers": ["T’Challa","Okoye","Shuri","M’Baku"]
+    },
+    {
+      "question": "Which Avenger survived the first snap?",
+      "correct_answer": 3,
+      "answers": ["Black Panther","Gamora","Vision","Iron Man"]
+    },
+    {
+      "question": "Who is the Winter Soldier?",
+      "correct_answer": 3,
+      "answers": ["John Walker","James Rhodes","Clint Barton","Bucky Barnes"]
+    },
+    {
+      "question": "Who is the main villain of Doctor Strange?",
+      "correct_answer": 2,
+      "answers": ["Dormammu","Kaecilius","Kaecilius","Baron Mordo"]
+    },
+    {
+      "question": "Which Avenger uses the bow and arrow?",
+      "correct_answer": 3,
+      "answers": ["Hawkeye","Black Widow","Falcon","Hawkeye"]
+    },
+    {
+      "question": "Who is the God of Mischief?",
+      "correct_answer": 2,
+      "answers": ["Thor","Odin","Loki","Hela"]
+    },
+    {
+      "question": "What is the color of the Reality Stone?",
+      "correct_answer": 0,
+      "answers": ["Red","Blue","Yellow","Purple"]
+    },
+    {
+      "question": "Who is the main villain in Captain America: Civil War?",
+      "correct_answer": 2,
+      "answers": ["Loki","Ultron","Zemo","Crossbones"]
+    },
+    {
+      "question": "Who wields the Eye of Agamotto?",
+      "correct_answer": 1,
+      "answers": ["Thor","Doctor Strange","Wong","Loki"]
+    },
+    {
+      "question": "Who is Star-Lord's father?",
+      "correct_answer": 2,
+      "answers": ["Yondu","Gamora","Ego","Thanos"]
+    },
+    {
+      "question": "Who kills Loki in Avengers: Infinity War?",
+      "correct_answer": 0,
+      "answers": ["Thanos","Hela","Thor","Iron Man"]
+    },
+    {
+      "question": "Which villain controls the Mind Stone?",
+      "correct_answer": 0,
+      "answers": ["Loki","Ultron","Thanos","Red Skull"]
+    },
+    {
+      "question": "Who is known as the Scarlet Witch?",
+      "correct_answer": 0,
+      "answers": ["Wanda Maximoff","Natasha Romanoff","Jean Grey","Gamora"]
+    },
+    {
+      "question": "Which Avenger is blind?",
+      "correct_answer": 1,
+      "answers": ["Hawkeye","Daredevil","Black Panther","Vision"]
+    },
+    {
+      "question": "Who is the King of Wakanda?",
+      "correct_answer": 2,
+      "answers": ["Killmonger","Shuri","T’Challa","M’Baku"]
+    },
+    {
+      "question": "Who created Ultron?",
+      "correct_answer": 1,
+      "answers": ["Hank Pym","Tony Stark and Bruce Banner","Thanos","Nick Fury"]
+    },
+    {
+      "question": "Who is the God of Thunder?",
+      "correct_answer": 2,
+      "answers": ["Loki","Odin","Thor","Hela"]
+    },
+    {
+      "question": "Which villain attacked New York in the first Avengers movie?",
+      "correct_answer": 3,
+      "answers": ["Ultron","Loki","Red Skull","Loki"]
+    },
+    {
+      "question": "Who is the Mandarin in Iron Man 3?",
+      "correct_answer": 0,
+      "answers": ["Trevor Slattery","Aldrich Killian","Tony Stark","Obadiah Stane"]
+    }
+  ]
+}
